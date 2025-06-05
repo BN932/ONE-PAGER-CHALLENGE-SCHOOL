@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.title-base {
+    @apply text-2xl text-center font-bold p-4;
+}

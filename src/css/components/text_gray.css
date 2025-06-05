@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.text-gray {
+    @apply text-gray-400 text-sm md:text-base;
+}
+
+

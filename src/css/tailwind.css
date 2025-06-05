@@ -1,0 +1,11 @@
+
+@import url("components/text_gray.css");
+@import url("components/body.css");
+@import url("components/section_base.css");
+@import url("components/title_base.css");
+@import "tailwindcss";
+@theme {
+    --font-title: "Delius", cursive;
+    --font-default: "Montserrat", sans-serif;
+}
+
